@@ -1,0 +1,17 @@
+door_type,width_in,height_in,weight_kg,material
+Bifold Door,18,80,13.6,PVC Composite
+Bifold Door,24,80,15.9,PVC Composite
+French Door,30,80,22.7,Solid Wood with Glass
+French Door,36,80,26.3,Solid Wood with Glass
+Slab Door,30,80,10.9,Unfinished Hardwood
+Slab Door,36,84,14.5,Unfinished Hardwood
+Saloon Door,36,42,9.1,Unfinished Pine
+Saloon Door,30,42,8.2,Unfinished Pine
+Sliding Door,72,80,72.6,Vinyl
+Sliding Door,96,80,81.6,Vinyl
+Barn Door,36,84,31.8,Knotty Pine
+Barn Door,42,84,37.2,Knotty Pine
+Accordion Door,36,80,6.8,Vinyl
+Accordion Door,48,80,8.2,Vinyl
+Hidden Door,36,80,136.1,Plywood Core
+Hidden Door,42,80,154.2,Plywood Core
